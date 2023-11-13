@@ -1,8 +1,8 @@
 {
-  "name": "chroma-kit-kim",
+  "name": "color-repo",
   "version": "1.0.0",
-  "description": "A lightweight JavaScript library for seamless color manipulation and analysis.",
-  "main": "index.js",
+  "description": "A lightweight JavaScript library for casual color manipulation",
+  "main": "color-repo.js",
   "scripts": {
     "test": "jest"
   },
