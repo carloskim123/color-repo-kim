@@ -1,0 +1,14 @@
+{
+  "name": "chroma-kit-kim",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for seamless color manipulation and analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Carlos Kirui",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
