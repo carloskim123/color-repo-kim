@@ -1,6 +1,6 @@
 # ColorRepo
 
-ColorRepo is a lightweight JavaScript library for seamless color manipulation and analysis. It provides a collection of methods to manipulate, analyze, and convert colors easily.
+Color Repo is a lightweight JavaScript library for seamless color manipulation and analysis. It provides a collection of methods to manipulate, analyze, and convert colors easily.
 
 #### Installation
 
@@ -14,7 +14,7 @@ npm install color-repo
 
 
 ```javascript
-const { ColorRepo } = require('colorrepo');
+const { ColorRepo } = require('color-repo');
 
 // Define a sample color
 const sampleColor = { r: 255, g: 0, b: 0 };
