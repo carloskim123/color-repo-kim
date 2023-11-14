@@ -1,4 +1,4 @@
-# Color Repo
+# Color Repo Kim 
 **this readme is still a work in progress. Some info might be out of place**
 
 Color Repo is a lightweight JavaScript library for seamless color manipulation and analysis. It provides a collection of methods to manipulate, analyze, and convert colors easily.
@@ -6,7 +6,7 @@ Color Repo is a lightweight JavaScript library for seamless color manipulation a
 #### Installation
 
 ```bash
-npm install color-repo
+npm install color-repo-kim
 ```
 #### Usage
 
@@ -15,13 +15,13 @@ npm install color-repo
 
 
 ```javascript
-const { ColorRepo } = require('color-repo');
+const { ColorRepoKim } = require('color-repo-kim');
 
 // Define a sample color
 const sampleColor = { r: 255, g: 0, b: 0 };
 
 // Get the complementary color
-const complementaryColor = ColorRepo.manipulate.getComplementaryColor(sampleColor);
+const complementaryColor = ColorRepoKim.manipulate.getComplementaryColor(sampleColor);
 
 // Display results
 console.log('Sample Color:', sampleColor);
@@ -36,29 +36,29 @@ Complementary Color: { r: 0, g: 255, b: 255 }`
 ```
 #### Advanced Features
 
-ColorRepo includes a variety of color manipulation features:
+ColorRepoKim includes a variety of color manipulation features:
 
 - Get Split Complementary Colors
 
 ``` javascript
-const splitComplementaryColors = ColorRepo.manipulate.getSplitComplementaryColors(sampleColor);
+const splitComplementaryColors = ColorRepoKim.manipulate.getSplitComplementaryColors(sampleColor);
 console.log('Split Complementary Colors:', splitComplementaryColors);`
 ```
 - Get Analogous Colors
 
 ```javascript
-const analogousColors = ColorRepo.manipulate.getAnalogousColors(sampleColor);
+const analogousColors = ColorRepoKim.manipulate.getAnalogousColors(sampleColor);
 console.log('Analogous Colors:', analogousColors);`
 ```
 - Get Monochromatic Colors
 
   
 ```javascript
-  const monochromaticColors = ColorRepo.manipulate.getMonochromaticColors(sampleColor, 5);
+  const monochromaticColors = ColorRepoKim.manipulate.getMonochromaticColors(sampleColor, 5);
   console.log('Monochromatic Colors:', monochromaticColors);`
 ```
 - Additional Color Manipulation Methods  
-  ColorRepo provides more advanced color manipulation methods:
+  ColorRepoKim provides more advanced color manipulation methods:
 
   - Triadic Colors
   - Tetradic Colors
@@ -66,11 +66,11 @@ console.log('Analogous Colors:', analogousColors);`
   - Darken Color
   - Invert Color
 
-  Explore these methods in the [API Documentation](https://color-repo.vercel.app/).
+  Explore these methods in the [API Documentation](https://color-repo-kim.vercel.app/).
 
 #### API Documentation
 
-For detailed information on all available methods and their parameters, refer to the [API Documentation](https://color-repo.vercel.app/).
+For detailed information on all available methods and their parameters, refer to the [API Documentation](https://color-repo-kim.vercel.app/).
 
 #### Examples
 
