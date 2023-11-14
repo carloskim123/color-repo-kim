@@ -2,7 +2,7 @@
   "name": "@carloskim123/color-repo",
   "version": "1.0.0",
   "description": "A lightweight JavaScript library for casual color manipulation",
-  "main": "color-repo.js",
+  "main": "./color-repo/color-repo.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/carloskim123/color-repo"
