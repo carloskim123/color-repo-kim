@@ -14,4 +14,12 @@ export const ColorRepo = {
 
 
 
-module.exports = ColorRepo
+
+module.exports = {
+    ColorRepo,
+    infoModule,
+    parseModule,
+    validateModule,
+    convertModule,
+    manipulateModule,
+}
