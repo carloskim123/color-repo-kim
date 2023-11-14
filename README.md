@@ -8,6 +8,11 @@ Color Repo is a lightweight JavaScript library for seamless color manipulation a
 ```bash
 npm install color-repo-kim
 ```
+
+or using cdn.jsdelivr.:
+```bash
+https://cdn.jsdelivr.net/npm/color-repo-kim@1.0.0
+```
 #### Usage
 
 #### Basic Example
