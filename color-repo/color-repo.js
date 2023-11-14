@@ -13,8 +13,6 @@ export const ColorRepo = {
 }
 
 
-
-
 module.exports = {
     ColorRepo,
     infoModule,
