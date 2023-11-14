@@ -12,12 +12,3 @@ export const ColorRepoKim = {
     manipulate: manipulateModule
 }
 
-
-module.exports = {
-    ColorRepoKim,
-    infoModule,
-    parseModule,
-    validateModule,
-    convertModule,
-    manipulateModule,
-}
