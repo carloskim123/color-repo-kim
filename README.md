@@ -66,11 +66,11 @@ console.log('Analogous Colors:', analogousColors);`
   - Darken Color
   - Invert Color
 
-  Explore these methods in the [API Documentation](https://chat.openai.com/c/f5e2913d-653a-4f66-ba5c-b032a8345ad5#api-documentation).
+  Explore these methods in the [API Documentation](https://color-repo.vercel.app/).
 
 #### API Documentation
 
-For detailed information on all available methods and their parameters, refer to the [API Documentation](https://chat.openai.com/c/API.md).
+For detailed information on all available methods and their parameters, refer to the [API Documentation](https://color-repo.vercel.app/).
 
 #### Examples
 
