@@ -1,13 +1,10 @@
 {
-  "name": "@carloskim123/color-repo",
+  "name": "color-repo-kim",
   "version": "1.0.0",
   "private": false,
   "description": "A lightweight JavaScript library for casual color manipulation",
-  "main": "./color-repo/color-repo.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/carloskim123/color-repo"
-  },
+  "main": "./color-repo-kim/color-repo-kim.js",
+
   "scripts": {
     "test": "jest"
   },
@@ -18,10 +15,7 @@
     "node",
     "registry"
   ],
-  "homepage": "https://github.com/carloskim123/color-repo#readme",
+  "homepage": "https://github.com/carloskim123/color-repo-kim#readme",
   "author": "Carlos Kirui",
-  "license": "MIT",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  }
+  "license": "MIT"
 }
