@@ -14,7 +14,7 @@ npm install color-repo-kim
 
 or using cdn.jsdelivr.:
 ```bash
-https://cdn.jsdelivr.net/npm/color-repo-kim@1.0.0
+https://cdn.jsdelivr.net/npm/color-repo-kim@2.0.0
 ```
 #### Usage
 
