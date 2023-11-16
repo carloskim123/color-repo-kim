@@ -81,15 +81,20 @@ For detailed information on all available methods and their parameters, refer to
 
 #### React Component
 ```javascript
+  import {ColorRepoKim} from 'color-repo-kim'
+
+
   export const Component = (props) => {
-    const { baseColor } = props;
-    const [currentColor, setCurrentColor] = useState(baseColor);
-  
-    return (
-        <article className={`...other bg-${currentColor}-500`}>
-          <button>click me</button>
-        </article>
-  )
+      const { baseColor } = props;
+
+      const [currentColor, setCurrentColor] = useState(ColorRepoKim.convert.hslToHex(baseColor));
+    
+      return (
+          <article className={`...other bg-${currentColor}-500`}>
+            <button>click me</button>
+          </article>
+    )
+  }
 ```
   
 
@@ -100,3 +105,5 @@ If you have ideas for new features, improvements, or find any issues, feel free 
 #### License
 
 This library is licensed under the MIT License - see the file for details. [LICENSE](https://opensource.org/license/mit/)This expanded README includes sections for API Documentation, Examples, and a basic React Component.
+
+

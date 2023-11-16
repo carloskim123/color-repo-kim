@@ -1,6 +1,6 @@
 {
   "name": "color-repo-kim",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "private": false,
   "description": "A lightweight JavaScript library for casual color manipulation",
   "main": "./color-repo-kim/color-repo-kim.js",
