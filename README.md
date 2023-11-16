@@ -1,5 +1,8 @@
+ ****IMPORTANT: If you're using v1.0.0 of color-repo-kim in an ES6 environment and encountering the 'Cannot use import outside a module' error, please run ```npm install color-repo-kim@latest``` to resolve the issue and install the latest version (v2.0.0).***
+
 # Color Repo Kim 
 **this readme is still a work in progress. Some info might be out of place**
+
 
 Color Repo is a lightweight JavaScript library for seamless color manipulation and analysis. It provides a collection of methods to manipulate, analyze, and convert colors easily.
 
@@ -11,7 +14,7 @@ npm install color-repo-kim
 
 or using cdn.jsdelivr.:
 ```bash
-https://cdn.jsdelivr.net/npm/color-repo-kim@1.0.0
+https://cdn.jsdelivr.net/npm/color-repo-kim@2.0.0
 ```
 #### Usage
 
