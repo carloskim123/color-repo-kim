@@ -1,6 +1,6 @@
 {
   "name": "color-repo-kim",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "private": false,
   "description": "A lightweight JavaScript library for casual color manipulation",
   "main": "./color-repo-kim/color-repo-kim.js",
@@ -14,7 +14,7 @@
     "node",
     "registry"
   ],
-  "homepage": "https://github.com/carloskim123/color-repo-kim#readme",
+  "homepage": "https://color-repo-kim.vercel.app",
   "author": "Carlos Kirui",
   "license": "MIT"
 }
